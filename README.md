@@ -1,4 +1,5 @@
-### Hi there 👋
+- Currently Learning Web Development -
+- Current CS Student at the New College Of Florida -
 
 <!--
 **Kinjen0/Kinjen0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
